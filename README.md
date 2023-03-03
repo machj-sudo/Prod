@@ -7,3 +7,4 @@
 | List Previous Location   |               | Cmd-Shift-E   |
 | Active Navigation Bar    | Alt-Home      | Cmd-Up        |
 | Find in Files            | Ctrl-Shift-F  | Cmd-Shift-F   |
+| Find All Occurrences     | Double-Shift  | Double-Shift  |
