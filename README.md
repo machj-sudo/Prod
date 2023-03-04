@@ -1,4 +1,6 @@
-# Pycharm-shortcuts
+# Increase Productivity
+
+## Pycharm Shortcuts 
 
 | Command                  | Windows/Linux  | MacOS         |
 | :---                     |    :----:      |    :----:     |
